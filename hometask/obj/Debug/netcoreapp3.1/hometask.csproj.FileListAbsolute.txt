@@ -1,0 +1,14 @@
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.exe
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.deps.json
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.runtimeconfig.json
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.runtimeconfig.dev.json
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.dll
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\bin\Debug\netcoreapp3.1\hometask.pdb
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.csproj.AssemblyReference.cache
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.AssemblyInfoInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.AssemblyInfo.cs
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.csproj.CoreCompileInputs.cache
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.dll
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.pdb
+C:\Users\Spectre\OneDrive\Bureau\hometask\hometask\hometask\obj\Debug\netcoreapp3.1\hometask.genruntimeconfig.cache
